@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:flash_meteo/models/country_model/country_model.dart';
 import 'package:flash_meteo/utils/request_extention.dart';
 import 'package:flutter/material.dart';
